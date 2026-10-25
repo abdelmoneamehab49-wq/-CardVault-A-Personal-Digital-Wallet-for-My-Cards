@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+.vite/
+
+# Local Cloudflare/Wrangler state and packaged download
+.wrangler/
+cardvault.zip
+
+# Screenshots taken before the balance features landed
+artifacts/
